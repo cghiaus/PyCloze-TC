@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 15 ~\mathrm{°C}$$
+et $$\theta_D = -20 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=-82.55:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 15 ~\mathrm{°C}$$
+et $$\theta_D = -10 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=-45.27:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 15 ~\mathrm{°C}$$
+et $$\theta_D = 15 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=15.00:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 20 ~\mathrm{°C}$$
+et $$\theta_D = -20 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=-103.49:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 20 ~\mathrm{°C}$$
+et $$\theta_D = -10 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=-56.44:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 20 ~\mathrm{°C}$$
+et $$\theta_D = 15 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=9.73:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 25 ~\mathrm{°C}$$
+et $$\theta_D = -20 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=-140.28:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 25 ~\mathrm{°C}$$
+et $$\theta_D = -10 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=-70.44:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q5_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation de la température de la voûte céleste
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q5.png?raw=true"
+alt="pc" width="584" hight="170">
+
+La voûte céleste peut être considérée comme un corps noir en forme d'une
+demi-sphère. Afin d'estimer la température de la voûte céleste, $$\theta_V$$,
+on place parallèle et près du sol un petit disque, $$D$$.
+Les surfaces du sol, $$S_S$$, et du disque, $$S_D$$, sont noires. Leurs
+températures sont $$\theta_S = 25 ~\mathrm{°C}$$
+et $$\theta_D = 15 ~\mathrm{°C}$$,
+respectivement. Estimer la température de la voûte céleste,
+$$\theta_V$$ = {1:NUMERICAL:=3.83:0.10}
+$$\pm 0.1 ~\mathrm{°C}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>
