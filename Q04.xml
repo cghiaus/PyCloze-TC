@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 30 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0104:0.0005} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=783:39}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 800 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 30 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0104:0.0005} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=1119:56}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 900 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 30 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0104:0.0005} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=1552:78}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 1000 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0208:0.0010} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=1567:78}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 800 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0208:0.0010} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=2237:112}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 900 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0208:0.0010} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3104:155}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 1000 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 60 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0312:0.0016} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=2350:118}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 800 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 60 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0312:0.0016} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3356:168}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 900 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 15 °
+et la hauteur apparante est
+$$\beta$$ = 60 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0312:0.0016} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=4655:233}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 1000 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 30 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0208:0.0010} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=1567:78}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 800 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 30 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0208:0.0010} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=2237:112}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 900 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 30 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0208:0.0010} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3104:155}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 1000 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:157}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 800 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=4475:224}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 900 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=6207:310}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 1000 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 60 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0625:0.0031} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=4700:235}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 800 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 60 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0625:0.0031} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=6712:336}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 900 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q04_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+
+
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/Q04.png?raw=true"
+alt="pc" width="584" hight="170">
+
+
+## Surface infinitésimale et cylindre
+
+Considérons une petite surface $$dS_1$$ située dans un plan horizontal et un
+cylindre $$S_2$$ d'axe vertical avec sa base dans le plan qui contient la
+petite surface. Le diamètre apparent de ce cylindre (c. à d. l'angle sous
+lequel il est vu depuis la petite surface $$dS_1$$) est
+$$\alpha$$ = 30 °
+et la hauteur apparante est
+$$\beta$$ = 60 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{sc}$$ = {1:NUMERICAL:=0.0625:0.0031} $$\pm 5~\%$$.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9311:466}
+$$\pm 5~\%~\mathrm{W/m^2}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta_c$$ = 1000 °C.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

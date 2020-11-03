@@ -1,0 +1,3033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 330 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |330| 0.650| 4.890e-04  | 984  | 4184 | 5.0400e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=3641:182.0} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.2:0.21} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=12.7:0.63} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 330 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |330| 0.650| 4.890e-04  | 984  | 4184 | 5.0400e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4027:201.4} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.8:0.19} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.3:0.56} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 330 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |330| 0.650| 4.890e-04  | 984  | 4184 | 5.0400e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4179:208.9} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.6:0.18} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=10.8:0.54} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 330 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |330| 0.650| 4.890e-04  | 984  | 4184 | 5.0400e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=3641:182.0} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.1:0.16} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=9.4:0.47} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 330 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |330| 0.650| 4.890e-04  | 984  | 4184 | 5.0400e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4027:201.4} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=2.8:0.14} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=8.4:0.42} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 330 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |330| 0.650| 4.890e-04  | 984  | 4184 | 5.0400e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4179:208.9} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=2.7:0.13} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=8.0:0.40} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 340 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |340| 0.660| 4.200e-04  | 979  | 4188 | 5.6600e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=3936:196.8} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.3:0.22} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=13.0:0.65} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 340 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |340| 0.660| 4.200e-04  | 979  | 4188 | 5.6600e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4354:217.7} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.9:0.19} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.6:0.58} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 340 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |340| 0.660| 4.200e-04  | 979  | 4188 | 5.6600e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4517:225.9} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.7:0.18} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.1:0.55} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 340 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |340| 0.660| 4.200e-04  | 979  | 4188 | 5.6600e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=3936:196.8} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.4:0.17} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=10.1:0.51} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 340 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |340| 0.660| 4.200e-04  | 979  | 4188 | 5.6600e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4354:217.7} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.0:0.15} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=9.0:0.45} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 340 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |340| 0.660| 4.200e-04  | 979  | 4188 | 5.6600e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4517:225.9} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=2.9:0.14} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=8.6:0.43} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 350 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |350| 0.668| 3.650e-04  | 974  | 4195 | 6.2420e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4223:211.2} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.5:0.22} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=13.4:0.67} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 350 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |350| 0.668| 3.650e-04  | 974  | 4195 | 6.2420e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4672:233.6} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.0:0.20} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.9:0.60} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 350 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |350| 0.668| 3.650e-04  | 974  | 4195 | 6.2420e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4847:242.4} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.8:0.19} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.4:0.57} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 350 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |350| 0.668| 3.650e-04  | 974  | 4195 | 6.2420e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4223:211.2} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.6:0.18} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=10.7:0.53} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 350 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |350| 0.668| 3.650e-04  | 974  | 4195 | 6.2420e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4672:233.6} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.2:0.16} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=9.5:0.48} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 350 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |350| 0.668| 3.650e-04  | 974  | 4195 | 6.2420e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4847:242.4} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.0:0.15} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=9.1:0.45} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 360 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |360| 0.674| 3.240e-04  | 967  | 4203 | 6.9790e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4470:223.5} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.6:0.23} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=13.7:0.69} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 360 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |360| 0.674| 3.240e-04  | 967  | 4203 | 6.9790e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4945:247.3} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.1:0.20} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=12.2:0.61} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 360 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |360| 0.674| 3.240e-04  | 967  | 4203 | 6.9790e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=5131:256.5} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.9:0.19} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.7:0.58} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 360 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |360| 0.674| 3.240e-04  | 967  | 4203 | 6.9790e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4470:223.5} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.7:0.19} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.2:0.56} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 360 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |360| 0.674| 3.240e-04  | 967  | 4203 | 6.9790e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4945:247.3} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.3:0.17} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=10.0:0.50} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 360 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |360| 0.674| 3.240e-04  | 967  | 4203 | 6.9790e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=5131:256.5} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.2:0.16} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=9.5:0.48} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_024</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 365 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |365| 0.677| 3.060e-04  | 963  | 4209 | 7.0110e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4593:229.6} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.6:0.23} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=13.9:0.69} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_025</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 365 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |365| 0.677| 3.060e-04  | 963  | 4209 | 7.0110e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=5080:254.0} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=4.1:0.21} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=12.3:0.62} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_026</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 365 K,
+et la température de l'air
+$$\theta_{air}$$ = 250 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |365| 0.677| 3.060e-04  | 963  | 4209 | 7.0110e-04|
+|Air      |250| 0.0223| 1.596e-05  | 1.3947  | 1006 | 4.0800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=5271:263.6} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.9:0.20} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.8:0.59} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_027</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 365 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |365| 0.677| 3.060e-04  | 963  | 4209 | 7.0110e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.022       |  0.001   |   0.63      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=4593:229.6} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.8:0.19} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=11.4:0.57} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_028</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 365 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |365| 0.677| 3.060e-04  | 963  | 4209 | 7.0110e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.035       |  0.001   |   0.81      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=5080:254.0} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.4:0.17} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=10.2:0.51} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q02_029</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Estimation des coefficients d'échange convectif
+
+Considérons un tuyau en cuivre dans lequel une pompe fait
+circuler de l’eau. Le tube se trouve dans l’air calme. On considère
+la température de la surface extérieure du tube
+quasiment égale à la température de l'eau à l’intérieure du tube.
+
+A partir des différentes corrélations existantes pour la convection forcée
+dans le tube et pour la convection naturelle dans l’air
+(basées sur le nombre de Grashof), trouver les valeurs des coefficients
+d’échange convectif dans le tube (eau - tube) et à l’extérieur du tube
+(air - tube) pour la température de l'eau dans le tuyau
+$$\theta_{eau}$$ = 365 K,
+et la température de l'air
+$$\theta_{air}$$ = 300 K.
+
+<br/>
+
+**Données**
+
+*Propriétés thermo-physiques*
+
+|Substance|T        | λ       |	   μ        |	 ρ       |   c        |   β   |
+|---------|------   | ------- | -----      | --------   | --------   | ----- |
+|         | $$K$$   | $$W/m\cdot K$$|$$Pa\cdot s$$| $$kg/m^3$$|$$J/kg\cdot K$$| $$K^{-1}$$|
+|____________|_________|____________|____________|____________|____________|____________|
+|Eau      |365| 0.677| 3.060e-04  | 963  | 4209 | 7.0110e-04|
+|Air      |300| 0.0263| 1.846e-05  | 1.1614  | 1007 | 3.3800e-03|
+
+<br/>
+
+*Tuyau*
+
+|Diamètre ext.   | Epaisseur   | Vitese de l'eau |
+|----------------|-------------|-----------------|
+| D [m]          |   e [m]     |      v [m/s]    |
+|________________|_____________|_________________|
+| 0.042       |  0.001   |   0.89      |
+
+<br/>
+
+
+**Donner les valeurs de:**
+
+$$h_i$$ = {1:NUMERICAL:=5271:263.6} $$W/m^2K$$,
+coefficient d'échange convectif entre l'eau et le tuyau à l'interieur.
+
+$$h_{o,min}$$ = {1:NUMERICAL:=3.2:0.16} $$W/m^2K$$,
+valeur minimale du coefficient d'échange convectif du tuyau avec l'air.
+
+$$h_{o,max}$$ = {1:NUMERICAL:=9.7:0.49} $$W/m^2K$$,
+valeur maximale du coefficient d'échange convectif du tuyau avec l'air.
+
+**Compléter la phrase :**
+
+La corrélation utilisée pour la convection forcée dans un tube s'appelle la
+formule de {1:SHORTANSWER:=Colburn}
+
+**Choisir la réponse correcte :**
+
+L'écoulement de l'air est {1:MULTICHOICE:on ne sais pas
+                           ~= laminaire
+                           ~ turbulent}
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

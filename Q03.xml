@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.56:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=207272:10363.58} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.61:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=227270:11363.50} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.62:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=230913:11545.67} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.67:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=250912:12545.59} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.44:0.02}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=164247:8212.37} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.47:0.02}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=173490:8674.49} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.56:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=209401:10470.06} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1600 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.59:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=218644:10932.18} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.55:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=327718:16385.88} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.60:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=356670:17833.50} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.63:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=375766:18788.30} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 2.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 2.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.68:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=404719:20235.93} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.44:0.02}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=261826:13091.31} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.40 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.46:0.02}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=274306:13715.30} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.80 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.57:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=342820:17141.02} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>Q03_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Emissivité totale hémisphérique
+
+Une surface diffuse est à la température T = 1800 K. Son emissivité
+hémisphérique est variable en fonction de la longueur d'onde :
+
+$$\varepsilon_1$$ = 0.60 pour $$\lambda$$ < $$\lambda_1$$ = 3.00e-06 m
+
+$$\varepsilon_2$$ = 0.90 pour
+$$\lambda_1$$ = 3.00e-06 m < $$\lambda$$ <
+$$\lambda_2$$ = 5.00e-06 m
+
+$$\varepsilon_3$$ = 0 pour $$\lambda_2$$ = 5.00e-06 m < $$\lambda$$
+
+**Donner les valeurs de :**
+
+$$\varepsilon$$ = {2:NUMERICAL:=0.60:0.03}
+émissivité hémisphérique globale,
+
+$$M$$ = {1:NUMERICAL:=355300:17765.01} W/m2,
+émittance hémisphérique totale.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>
