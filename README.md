@@ -1,12 +1,10 @@
-# PyCloze-TC
-Une collection de problèmes de transferts de chaleur en format XML Moodle générés en Python pour obtenir des tests à questions aléatoires.
-
-# PyCloze : Transferts de chaleur
-
+# PyCloze-Transferts de chaleur
 - auteur: [Christian Ghiaus](mailto:cghiaus@gmail.com), [INSA Lyon](https://www.insa-lyon.fr)
 - date: nov. 2020
 
-**PyCloze : Transfert de chaleur** est une collection de problèmes en format [XML][xml2moodle] générés en [Python 3](https://www.python.org) et importable en [Moodle 3](https://moodle.org) pour obtenir des [tests][TestsMoodle] à [questions aléatoires][QuestionsAléatoires]. Les tests sont utilisables pour :
+Banque de questions à réponse intégrées (cloze) en format XML Moodle générés en Python pour obtenir des tests à questions aléatoires.
+
+Les problèmes, en format [XML][xml2moodle], sont générés en [Python 3](https://www.python.org) et importable en [Moodle 3](https://moodle.org) pour obtenir des [tests][TestsMoodle] à [questions aléatoires][QuestionsAléatoires]. Les tests sont utilisables pour :
 
 - les cours magistraux (CM) : les fichiers notés `Q*.xml` ;
 
