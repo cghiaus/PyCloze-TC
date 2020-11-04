@@ -2,7 +2,7 @@
 - auteur: [Christian Ghiaus](mailto:cghiaus@gmail.com), [INSA Lyon](https://www.insa-lyon.fr)
 - date: nov. 2020
 
-Banque de questions à réponse intégrées ([cloze][QuestionCloze]) en format [XML][xml2moodle] générés en [Python 3](https://www.python.org) pour obtenir des tests [Moodle 3](https://moodle.org) à [questions aléatoires][QuestionsAléatoires].
+[Banque de questions][BanqueQuestions] à réponse intégrées ([cloze][QuestionCloze]) en format [XML][xml2moodle] générés en [Python 3](https://www.python.org) pour obtenir des tests [Moodle 3](https://moodle.org) à [questions aléatoires][QuestionsAléatoires].
 
 Les tests sont utilisables pour :
 
@@ -91,6 +91,8 @@ Ces documents sont sous licence <a rel="license" href="http://creativecommons.or
 [TestsMoodle]:https://docs.moodle.org/2x/fr/Construire_un_test
 
 [QuestionsAléatoires]:https://docs.moodle.org/2x/fr/Construire_un_test#Ajout_de_questions_al.C3.A9atoires
+
+[BanqueQuestions]:https://docs.moodle.org/2x/fr/Banque_de_questions
 
 [XML]:https://docs.moodle.org/3x/fr/Format_XML_Moodle
 
