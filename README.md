@@ -28,7 +28,7 @@ Ces documents sont sous licence <a rel="license" href="http://creativecommons.or
 
 - Télécharger les fichiers `.xml`.
 
-- [Importer][ImporterQestionXML] les questions depuis le fichier `*.xml`. 
+- [Importer][ImporterQestionXML] les questions en Moolde depuis le fichier `*.xml`. 
 
 
 ## Sommaire
