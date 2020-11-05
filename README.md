@@ -13,7 +13,7 @@ Les tests sont utilisables pour :
 - Examens en utilisant des [tests][TestsMoodle].
 
 
-Les fichiers en format [XML Moodle][XML] sont obtenus en utilisant la procédure :
+Les fichiers en format [XML Moodle][XML] ont été obtenus en utilisant la procédure :
 
 **PyCloze**
 
