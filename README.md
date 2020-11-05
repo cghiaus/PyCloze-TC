@@ -6,11 +6,11 @@
 
 Les tests sont utilisables pour :
 
-- Des questions de 10 min. dans les cours magistraux (CM) :  les fichiers notés `Q*.xml` ;
+- Questions dans les cours magistraux (CM) :  les fichiers notés `Q*.xml`.
 
-- Des problèmes de 2 h dans les travaux dirigés (TD) : les fichiers notés `P*.xml`.
+- Problèmes dans les travaux dirigés (TD) : les fichiers notés `P*.xml`.
 
-- Des examens de 1h30 - 2h00 en utilisant des [tests][TestsMoodle] composés de plusieurs questions (typiqument une question `Q*.xml` et deux questions `P*.xml`).
+- Examens en utilisant des [tests][TestsMoodle] composés de plusieurs questions (typiqument une question `Q*.xml` et deux questions `P*.xml`).
 
 
 Les fichiers en format [XML Moodle][XML] sont obtenus en utilisant la procédure :
