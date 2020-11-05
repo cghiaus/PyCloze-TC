@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.40:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=54.3:2.714}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.81:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=21.3:1.064}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.40:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=54.3:2.714}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=19.91:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=21.5:1.076}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.40:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=54.3:2.714}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.00:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=26.5:1.324}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.40:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=54.3:2.714}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=19.12:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=26.8:1.342}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=21.80:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=77.6:3.880}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=22.36:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=30.4:1.522}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=21.80:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=77.6:3.880}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=23.88:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=30.8:1.538}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=21.80:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=77.6:3.880}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=21.24:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=37.9:1.893}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  10 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=21.80:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=77.6:3.880}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=22.79:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=38.4:1.919}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=16.95:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=103.1:5.155}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=17.72:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=40.4:2.022}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=16.95:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=103.1:5.155}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=19.83:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=40.9:2.044}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=16.95:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=103.1:5.155}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=16.17:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=50.3:2.515}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  20 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=16.95:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=103.1:5.155}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=18.31:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=51.0:2.549}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=20.39:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=126.4:6.321}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=21.31:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=49.6:2.479}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=20.39:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=126.4:6.321}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.4 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=23.80:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=50.1:2.506}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=20.39:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=126.4:6.321}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.8, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=19.47:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=61.7:3.084}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P13_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs dans un local de forme cubique
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P13.png?raw=true"
+alt="pc" width="584" hight="170">
+
+On appelle température radiante la température d'équilibre d'une très petite
+sphère noire soumise uniquement au rayonnement (pas de convection).
+
+Considérons une pièce carrée possédant une façade $$F$$ à la température
+$$\theta_F$$ =  0 °C
+et les autres cinq parois $$P$$ considérées comme un seul objet à la
+température
+$$\theta_P$$ =  24 °C.
+La sphère $$S$$, permettant de mesurer la température radiante, est
+située au centre de la pièce. Dans tout le problème, on suppose que la
+sphère $$S$$, étant infiniment petite, ne perturbe pas les échanges entre la
+façade et les autres parois.
+
+## a) Facteurs de forme
+
+1. Déterminer les facteurs de forme
+$$F_{SF}$$ = {1:NUMERICAL:=0.1666:0.01} et
+$$F_{SP}$$ = {1:NUMERICAL:=0.8333:0.01}
+entre la sphère $$S$$, d’une part, et la façade $$F$$ et les parois $$P$$,
+d’autre part.
+
+2. Déterminer les facteurs de forme entre la façade et les parois,
+$$F_{FP}$$ = {1:NUMERICAL:=1:0}
+et entre les parois et la façade,
+$$F_{PF}$$ = {1:NUMERICAL:=0.2:0}.
+
+## b) Toutes les surfaces sont noires
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=20.39:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=126.4:6.321}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+## c) La façade et les parois sont des corps gris et opaques
+
+Les coefficients d’émissivité pour la façade et les parois sont
+$$\varepsilon_F$$ = 0.5 et
+$$\varepsilon_P$$ = 0.9, respectivement. La sphère est un corps noir.
+
+1. Calculer la température moyenne radiante, c. à d. la température de la
+sphère
+$$\theta_S$$ = {1:NUMERICAL:=22.01:0.2000}
+$$\pm 0.2 ~\mathrm{°C}$$.
+
+2. Trouver le flux net par unité de surface (de façade) reçu par la façade en
+    provenance des parois
+$$\varphi_{net,PF}$$ = {1:NUMERICAL:=62.5:3.126}
+$$\pm$$ 5 % $$ ~\mathrm{W/m^2}$$
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

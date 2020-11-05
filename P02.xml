@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-1774.58:-88.73}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-1769.17:-88.46}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-1775.03:-88.75}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-1768.72:-88.44}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-2010.83:-100.54}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-2005.42:-100.27}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-2011.28:-100.56}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-2004.97:-100.25}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-4535.02:-226.75}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-4521.23:-226.06}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-4536.17:-226.81}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-4520.07:-226.00}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-5138.77:-256.94}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-5124.98:-256.25}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-5139.92:-257.00}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-5123.83:-256.19}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-4929.38:-246.47}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-4914.37:-245.72}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-4930.63:-246.53}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-4913.12:-245.66}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-5585.62:-279.28}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-5570.63:-278.53}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.004
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-5586.88:-279.34}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-5569.37:-278.47}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-1183.95:-59.20}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-1178.55:-58.93}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-1184.40:-59.22}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-1178.10:-58.90}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-1341.45:-67.07}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-1336.05:-66.80}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  0.450
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.68:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-1341.90:-67.10}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-1335.60:-66.78}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3025.65:-151.28}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3011.85:-150.59}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3026.80:-151.34}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3010.70:-150.53}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3428.15:-171.41}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3414.35:-170.72}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.150
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.68:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3429.30:-171.47}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3413.20:-170.66}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3288.75:-164.44}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3273.75:-163.69}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 20.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.01:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=15.01:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3290.00:-164.50}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3272.50:-163.62}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    600
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.67:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3726.25:-186.31}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3711.25:-185.56}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P02_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Conduction en régime permanant avec création interne de chaleur
+
+On considère une vitre d’épaisseur
+$$e$$ = 0.006
+m et de surface
+$$S$$ =  1.250
+m<sup>2</sup> supposée infinie dans les deux autres directions. Les faces à
+$$x = 0$$ et $$x = e$$ sont maintenues aux températures
+$$\theta_0$$ = 5.0
+°C et
+$$\theta_e$$ = 22.0
+°C.
+Cette vitre,  de conductivité́
+thermique constante
+$$\lambda$$ =  1.050
+W/mK, reçoit un ensoleillement
+$$E$$ =    700
+W/m<sup>2</sup> dont elle absorbe uniformément une partie en fonction de
+son coefficient d’absorption
+$$\alpha$$ = 0.02
+. On considère que le régime est permanant et que le rayonnement est absorbé
+uniformément dans tout le volume de la vitre.
+
+**Donner les valeurs de :**
+
+$$\theta_{1/3}$$ = {1:NUMERICAL:=10.68:0.20}
+°C, température de la vitre à $$x = e/3$$,
+
+$$\theta_{2/3}$$ = {1:NUMERICAL:=16.34:0.20}
+°C, température de la vitre à $$x = 2e/3$$,
+
+$$q_{0}$$ = {1:NUMERICAL:=-3727.50:-186.38}
+W, flux thermique qui **entre** dans la vitre en $$x = 0$$,
+
+$$q_{e}$$ = {1:NUMERICAL:=-3710.00:-185.50}
+W, flux thermique qui **sort** de la vitre en $$x = e$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

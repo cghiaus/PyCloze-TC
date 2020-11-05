@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=513.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=384.5:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=441.9:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=231.7:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=513.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=439.0:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=441.9:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=333.2:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=513.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=435.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=441.9:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=327.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=513.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=466.5:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 20 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=441.9:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=375.7:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=515.6:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=387.6:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=444.3:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=238.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=515.6:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=441.5:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=444.3:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 10 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=337.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=515.6:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=438.2:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=444.3:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.60$$ :
+
+$$T_g$$ = {1:NUMERICAL:=331.8:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 600 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=528.4:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=515.6:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=468.7:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P14_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Échanges radiatifs entre surfaces noires et grises
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P14.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un câble chauffant électrique de longueur
+$$L_c = 20 ~\mathrm{cm}$$
+est placé au centre d'une gaine, le vide étant fait entre le câble et la gaine.
+Le diamètre du câble est
+$$d_c = 5 ~\mathrm{mm}$$
+et celui de la gaine
+$$d_g = 30 ~\mathrm{mm}$$.
+Le câble doit dissiper une puissance
+$$\dot{Q_c} = 30 ~\mathrm{W}$$
+sans que sa température ne dépasse
+$$T_c = 550 ~\mathrm{K}$$.
+
+1. En négligeant les effets de bords aux extrémités, donner la valeur des
+différents facteurs de forme entre le câble et la gaine :
+
+$$F_{cc}$$ = {1:NUMERICAL:=0.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{cg}$$ = {1:NUMERICAL:=1.000:0.050}
+$$\pm 0.05$$,
+
+$$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
+$$\pm 0.05$$,
+
+$$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
+$$\pm 0.05$$,
+
+2. Sachant que les deux surfaces sont noires, donner la température maximale
+que doit avoir la gaine:
+
+$$T_g$$ = {1:NUMERICAL:=461.1:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+3. Que devient cette température si l’émissivité du câble est
+$$\varepsilon_c = 0.90$$
+et l’émissivité de la gaine est
+$$\varepsilon_g = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=444.3:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+4. Dans les conditions de la question 3), donner la température de la gaine si
+l'on place un cylindre écran de diamètre
+$$d_e = 15 ~\mathrm{mm}$$
+d’émissivité
+$$\varepsilon_e = 0.80$$ :
+
+$$T_g$$ = {1:NUMERICAL:=378.9:1.0}
+$$\pm 1.0 ~\mathrm{°C}$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

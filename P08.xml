@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.005769:0.000288}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=875.7:43.78} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.004959:0.000248}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=807.6:40.38} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.019868:0.000993}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=916.0:45.80} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.005769:0.000288}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=915.0:45.75} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.004959:0.000248}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=843.9:42.20} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.019868:0.000993}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=957.2:47.86} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.009615:0.000481}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=525.4:26.27} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.008264:0.000413}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=484.6:24.23} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.033113:0.001656}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=549.6:27.48} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.009615:0.000481}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=549.0:27.45} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.008264:0.000413}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=506.3:25.32} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.010 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.033113:0.001656}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=574.3:28.72} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.014423:0.000721}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=2189.2:109.46} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.012397:0.000620}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=2019.0:100.95} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.049669:0.002483}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=2290.1:114.51} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.014423:0.000721}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=2287.6:114.38} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.012397:0.000620}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=2109.8:105.49} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ =  90 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.049669:0.002483}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=2393.1:119.65} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.024038:0.001202}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=1313.5:65.68} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.020661:0.001033}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=1211.4:60.57} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 80.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.082781:0.004139}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=1374.1:68.70} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=32.12:1.61} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.45:1.12} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.49:1.02} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *bronze commercial*
+
+$$\rho$$ =  8800 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 420 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 52.0 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.024038:0.001202}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=1372.6:68.63} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier AINSI 1010*
+
+$$\rho$$ =  7854 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 434 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 60.5 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.020661:0.001033}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=1265.9:63.29} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P08_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Trempe d'une bille métallique (régime dynamique)
+
+On considère une bille homogène qui est à une température uniforme
+$$\theta_0$$. Cet objet est brusquement immergé dans un fluide qui reste à une
+température uniforme et constante $$\theta_f$$.
+
+Connues :
+
+$$r$$ = 0.025 m    - rayon de la bille,
+
+$$h$$ = 150 W/m<sup>2</sup>K    - coefficient d'échange convectif,
+
+$$\theta_0$$ = 100.0 °C    - température initiale de la bille,
+
+$$\theta_f$$ = 20.0 °C    - température du fluide.
+
+Matériau :  *acier inoxydable*
+
+$$\rho$$ =  8055 kg/m<sup>3</sup>    - masse volumique,
+
+$$c$$ = 480 J/kg K    - chaleur massique,
+
+$$\lambda$$ = 15.1 W/m K    - conductivité thermique.
+
+
+**Questions :**
+
+$$Bi$$ = {1:NUMERICAL:=0.082781:0.004139}, nombre de Biot.
+
+Est-ce que l'hypothèse de la variation négligeable de la température à
+l'intérieure de la bille est valide ?
+
+{1:MULTICHOICE:=Oui#OK~Non#Faux}, parce que
+{1:MULTICHOICE:~Bi < 1#Faux~Bi < 0.5#Faux~=Bi < 0.1#OK}
+
+Au bout de combien de temps, $$t_f$$, atteint-on pratiquement l'équilibre
+thermique à 0.1 °C près ?
+
+$$t_f$$ = {3:NUMERICAL:=1435.9:71.79} s,
+temps final.
+
+Quelle est l'évolution de la température de la bille dans le temps ?
+
+$$\theta_{1/4t_f}$$ = {1:NUMERICAL:=35.04:1.75} °C,
+température au temps $$0.25 t_f$$.
+
+$$\theta_{1/2t_f}$$ = {1:NUMERICAL:=22.83:1.14} °C,
+température au temps $$0.5 t_f$$.
+
+$$\theta_{3/4t_f}$$ = {1:NUMERICAL:=20.53:1.03} °C,
+température au temps $$0.75 t_f$$.
+
+$$\theta_{t_f}$$ = {1:NUMERICAL:=20.10:1.01} °C,
+température au temps final $$t_f$$.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

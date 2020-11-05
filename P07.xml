@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=15.20:0.760} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=16.91:0.846} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=20.84:1.042} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=19.29:0.965} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=15.20:0.760} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=16.91:0.846} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=20.84:1.042} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=19.29:0.965} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=15.19:0.760} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=16.90:0.845} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=20.82:1.041} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=19.28:0.964} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=15.12:0.756} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=16.81:0.841} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=20.69:1.034} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=19.16:0.958} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=15.12:0.756} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=16.81:0.841} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=20.69:1.034} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=19.16:0.958} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=15.11:0.756} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=16.80:0.840} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=20.67:1.034} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=19.15:0.957} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=18.56:0.928} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=20.27:1.013} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=22.96:1.148} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=21.10:1.055} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=18.56:0.928} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=20.27:1.013} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=22.96:1.148} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=21.10:1.055} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=18.55:0.927} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=20.25:1.013} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=22.95:1.147} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=21.09:1.054} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=18.44:0.922} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=20.13:1.006} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=22.78:1.139} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=20.95:1.047} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=18.44:0.922} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=20.13:1.006} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=22.78:1.139} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=20.95:1.047} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 90 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=18.43:0.921} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=20.11:1.006} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=22.76:1.138} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=20.93:1.046} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=23.39:1.169} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=26.02:1.301} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=32.06:1.603} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=29.68:1.484} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=23.39:1.169} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=26.02:1.301} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=32.06:1.603} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=29.68:1.484} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=23.38:1.169} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=26.00:1.300} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=32.04:1.602} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=29.66:1.483} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=23.27:1.163} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=25.86:1.293} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=31.83:1.591} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=29.48:1.474} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=23.27:1.163} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=25.87:1.293} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=31.83:1.591} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=29.48:1.474} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 8 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=23.25:1.163} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=25.85:1.292} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=30.75:1.538} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=31.80:1.590} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=29.46:1.473} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=28.55:1.428} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=31.18:1.559} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=35.33:1.766} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=32.46:1.623} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=28.55:1.428} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=31.18:1.559} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=35.33:1.766} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=32.46:1.623} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 10s/20
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.2 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=28.54:1.427} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=31.16:1.558} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=35.30:1.765} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=32.44:1.622} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+bronze commercial
+de conductivité
+$$\lambda_t = 52.0 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=28.37:1.418} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=30.96:1.548} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=35.05:1.752} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=32.23:1.611} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier AINSI 1010
+de conductivité
+$$\lambda_t = 60.5 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=28.37:1.419} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=30.96:1.548} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=35.05:1.752} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=32.23:1.611} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P07_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Isolation thermique des tubes cylindriques
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P07.png?raw=true"
+alt="pc" width="584" hight="170">
+
+De la vapeur d’eau à la température
+$$\theta_i = 125 ~\mathrm{°C}$$
+s'écoule dans un tube en
+acier inoxydable
+de conductivité
+$$\lambda_t = 15.1 ~\mathrm{W/mK}$$.
+Le tube est de type
+DN 6 Sch. 30
+de diamètre extérieur
+$$d_o = 10.3 ~\mathrm{mm}$$
+et d’épaisseur
+$$e = 1.4 ~\mathrm{mm}$$.
+Ce tube traverse un espace dont la température de l’air est égale à
+$$\theta_e = 25 ~\mathrm{°C}$$.
+Les coefficients d’échange superficiel sont
+$$h_i = 100 ~\mathrm{W/m^2K}$$
+entre la vapeur d’eau et le tube et
+$$h_e = 10 ~\mathrm{W/m^2K}$$
+entre le tube et l’air ambiant.
+
+1. 	Évaluer le flux de chaleur qui passe de l’intérieur à l’extérieur du tube
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=28.35:1.417} $$~\mathrm{W/m}$$.
+
+2. Les pertes de chaleur calculées précédemment étant jugées trop importantes,
+on décide de calorifuger la conduite. A cet effet, on recouvre le tube d'un
+manchon d'isolant minéral de diamètre intérieur $$d_o$$ et de diamètre
+extérieur
+$$d_i = 12.5 ~\mathrm{mm}$$
+de conductibilité thermique
+$$\lambda_i = 0.123 ~\mathrm{W/mK}$$.
+On suppose que le nouveau coefficient d’échange superficiel calorifuge – air
+ambiant est le même que le coefficient tube – air ambiant, soit $$h_e$$.
+Calculer le nouveau flux de chaleur traversant le tube et son manchon isolant
+pour l’unité de longueur :
+
+$$q$$ = {1:NUMERICAL:=30.94:1.547} $$~\mathrm{W/m}$$.
+
+3. Comme le flux perdu après l’isolation est supérieur au flux sans isolant,
+déterminer le diamètre critique de l'isolant pour lequel les pertes
+calorifiques sont maximales :
+
+$$d_{cr}$$ = {1:NUMERICAL:=24.60:1.230} $$~\mathrm{mm}$$.
+
+Calculer le flux de chaleur perdu par le tube dans ce cas :
+
+$$q$$ = {1:NUMERICAL:=35.02:1.751} $$~\mathrm{W/m}$$.
+
+4. Calculer le flux de chaleur perdu par le tube si l’isolant a deux fois
+le diamètre critique :
+
+$$q$$ = {1:NUMERICAL:=32.20:1.610} $$~\mathrm{W/m}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

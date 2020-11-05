@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.013333:0.000667}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-50.00:-2.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-750.00:-37.50}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.006667:0.000333}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-100.00:-5.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1500.00:-75.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.013333:0.000667}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-60.00:-3.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-900.00:-45.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.006667:0.000333}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-120.00:-6.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1800.00:-90.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.013333:0.000667}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-75.00:-3.75}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1125.00:-56.25}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.006667:0.000333}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-150.00:-7.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-2250.00:-112.50}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.013333:0.000667}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-85.00:-4.25}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1275.00:-63.75}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.006667:0.000333}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-170.00:-8.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-2550.00:-127.50}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.013333:0.000667}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-100.00:-5.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1500.00:-75.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.006667:0.000333}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-200.00:-10.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-3000.00:-150.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.013333:0.000667}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-110.00:-5.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1650.00:-82.50}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 15.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.006667:0.000333}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-220.00:-11.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-3300.00:-165.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.010000:0.000500}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-50.00:-2.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1000.00:-50.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.005000:0.000250}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-100.00:-5.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-2000.00:-100.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.010000:0.000500}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-60.00:-3.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1200.00:-60.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 10.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.005000:0.000250}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-120.00:-6.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-2400.00:-120.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.010000:0.000500}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-75.00:-3.75}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1500.00:-75.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.005000:0.000250}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-150.00:-7.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-3000.00:-150.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.010000:0.000500}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-85.00:-4.25}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1700.00:-85.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 5.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.005000:0.000250}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-170.00:-8.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-3400.00:-170.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.010000:0.000500}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-100.00:-5.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-2000.00:-100.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 20.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.005000:0.000250}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-200.00:-10.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-4000.00:-200.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 0.50
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=5.00:0.25}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.010000:0.000500}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-110.00:-5.50}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-2200.00:-110.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P01_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux conditions limites de type Dirichlet
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10
+ m et de surface
+$$S$$ = 20.00
+ m<sup>2</sup> dont les faces $$x$$ = 0 et $$x = e$$ sont maintenues aux
+ températures
+$$\theta_0$$ = 0.0
+ C et
+$$\theta_e$$ = 22.0
+ C. On supposera que les transferts de chaleur sont monodimensionnels et en
+ régime permanent, sans création de chaleur interne, et que la conductivité
+ du matériau,
+$$\lambda$$ = 1.00
+ W/mK, est constante.
+
+**Donner les valeurs de :**
+
+$$U$$ = {1:NUMERICAL:=10.00:0.50}
+ W/m<sup>2</sup>K, conductivité surfacique.
+
+$$R$$ = {1:NUMERICAL:=0.005000:0.000250}
+ K/W, résistance thermique.
+
+$$\varphi_{0,e}$$ = {1:NUMERICAL:=-220.00:-11.00}
+ W/m<sup>2</sup>, densité de flux thermique traversant le mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-4400.00:-220.00}
+ W, flux thermique traversant le mur.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

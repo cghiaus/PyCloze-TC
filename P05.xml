@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.53:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.85:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-498.11:-24.91} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=10.71:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=14.84:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-619.35:-30.97} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.80:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.01:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-598.49:-29.92} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=11.00:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.77:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-748.05:-37.40} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=8.28:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.49:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-781.13:-39.06} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=6.35:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=12.42:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-909.68:-45.48} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=8.70:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=12.18:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-938.54:-46.93} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=6.77:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.84:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1098.70:-54.94} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.53:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.85:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-664.15:-33.21} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=10.71:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=14.84:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-825.81:-41.29} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.80:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.01:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-797.98:-39.90} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=11.00:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.77:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-997.40:-49.87} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=8.28:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.49:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1041.51:-52.08} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=6.35:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=12.42:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1212.90:-60.65} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=8.70:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=12.18:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1251.39:-62.57} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=6.77:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.84:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1464.94:-73.25} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.16:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=16.99:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-361.64:-18.08} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=10.33:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=16.28:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-446.51:-22.33} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.47:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=16.02:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-478.07:-23.90} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=10.65:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.05:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-593.81:-29.69} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=7.71:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.27:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-567.12:-28.36} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=5.79:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=14.53:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-655.81:-32.79} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=8.20:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.75:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-749.70:-37.48} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=6.27:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=12.73:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-872.16:-43.61} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_024</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.16:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=16.99:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-482.19:-24.11} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_025</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=10.33:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=16.28:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-595.35:-29.77} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_026</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=12.47:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=16.02:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-637.42:-31.87} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_027</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=10.65:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.05:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-791.75:-39.59} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_028</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=7.71:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=15.27:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-756.16:-37.81} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_029</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=5.79:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=14.53:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-874.42:-43.72} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_030</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=8.20:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.75:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-999.60:-49.98} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P05_031</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs et radiatifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C,
+respectivement. On supposera que les transferts de chaleur sont
+monodimensionnels et en régime permanent, sans création de chaleur interne.
+La conductivité du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement. La parois exterieure, ayant un coeffcient d'absobtion
+$$\alpha$$ = 0.70,
+reçoit un éclairment solaire
+$$\Phi_{sol}$$ = 400.0 W/m<sup>2</sup>.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=6.27:0.20}C,
+température de la surface exterieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=12.73:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{0,e}$$ = {1:NUMERICAL:=-1162.89:-58.14} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

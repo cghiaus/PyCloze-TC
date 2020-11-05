@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 400 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+aluminium
+avec le coefficient d'absorption
+$$\alpha = 0.15$$
+et d’émissivité
+$$\varepsilon = 0.05$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=243.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+aluminium :
+$$T_d$$ = {1:NUMERICAL:=320.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+aluminium
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+aluminium :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 400 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+oxyde de cobalt noir
+avec le coefficient d'absorption
+$$\alpha = 0.93$$
+et d’émissivité
+$$\varepsilon = 0.30$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=243.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+oxyde de cobalt noir :
+$$T_d$$ = {1:NUMERICAL:=323.4:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+oxyde de cobalt noir
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+oxyde de cobalt noir :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 400 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture zinc blanc
+avec le coefficient d'absorption
+$$\alpha = 0.16$$
+et d’émissivité
+$$\varepsilon = 0.93$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=243.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture zinc blanc :
+$$T_d$$ = {1:NUMERICAL:=157.0:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture zinc blanc
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture zinc blanc :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 400 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture noire
+avec le coefficient d'absorption
+$$\alpha = 0.98$$
+et d’émissivité
+$$\varepsilon = 0.98$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=243.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture noire :
+$$T_d$$ = {1:NUMERICAL:=243.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture noire
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture noire :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 400 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture acrylique blanche 
+avec le coefficient d'absorption
+$$\alpha = 0.26$$
+et d’émissivité
+$$\varepsilon = 0.90$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=243.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture acrylique blanche  :
+$$T_d$$ = {1:NUMERICAL:=178.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture acrylique blanche 
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture acrylique blanche  :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 600 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+aluminium
+avec le coefficient d'absorption
+$$\alpha = 0.15$$
+et d’émissivité
+$$\varepsilon = 0.05$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=269.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+aluminium :
+$$T_d$$ = {1:NUMERICAL:=354.9:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+aluminium
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=320.7:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+aluminium :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 600 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+oxyde de cobalt noir
+avec le coefficient d'absorption
+$$\alpha = 0.93$$
+et d’émissivité
+$$\varepsilon = 0.30$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=269.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+oxyde de cobalt noir :
+$$T_d$$ = {1:NUMERICAL:=357.9:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+oxyde de cobalt noir
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=320.7:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+oxyde de cobalt noir :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 600 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture zinc blanc
+avec le coefficient d'absorption
+$$\alpha = 0.16$$
+et d’émissivité
+$$\varepsilon = 0.93$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=269.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture zinc blanc :
+$$T_d$$ = {1:NUMERICAL:=173.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture zinc blanc
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=320.7:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture zinc blanc :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 600 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture noire
+avec le coefficient d'absorption
+$$\alpha = 0.98$$
+et d’émissivité
+$$\varepsilon = 0.98$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=269.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture noire :
+$$T_d$$ = {1:NUMERICAL:=269.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture noire
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=320.7:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture noire :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 600 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture acrylique blanche 
+avec le coefficient d'absorption
+$$\alpha = 0.26$$
+et d’émissivité
+$$\varepsilon = 0.90$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=269.7:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture acrylique blanche  :
+$$T_d$$ = {1:NUMERICAL:=197.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture acrylique blanche 
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=320.7:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture acrylique blanche  :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 800 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+aluminium
+avec le coefficient d'absorption
+$$\alpha = 0.15$$
+et d’émissivité
+$$\varepsilon = 0.05$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+aluminium :
+$$T_d$$ = {1:NUMERICAL:=381.4:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+aluminium
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=344.6:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+aluminium :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 800 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+oxyde de cobalt noir
+avec le coefficient d'absorption
+$$\alpha = 0.93$$
+et d’émissivité
+$$\varepsilon = 0.30$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+oxyde de cobalt noir :
+$$T_d$$ = {1:NUMERICAL:=384.6:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+oxyde de cobalt noir
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=344.6:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+oxyde de cobalt noir :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 800 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture zinc blanc
+avec le coefficient d'absorption
+$$\alpha = 0.16$$
+et d’émissivité
+$$\varepsilon = 0.93$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture zinc blanc :
+$$T_d$$ = {1:NUMERICAL:=186.7:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture zinc blanc
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=344.6:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture zinc blanc :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 800 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture noire
+avec le coefficient d'absorption
+$$\alpha = 0.98$$
+et d’émissivité
+$$\varepsilon = 0.98$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture noire :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture noire
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=344.6:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture noire :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P10_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Rayonnement d’un disque
+
+L’éclairement solaire normal sur un disque plat est
+$$E = 800 ~\mathrm{W/m^2}$$.
+On suppose que le disque est en
+peinture acrylique blanche 
+avec le coefficient d'absorption
+$$\alpha = 0.26$$
+et d’émissivité
+$$\varepsilon = 0.90$$.
+On ne prend pas en considération les autres échanges avec l’ambiance (par
+convection et rayonnement avec l’air et par rayonnement avec les autres
+surfaces). En considérant que les échanges radiatifs avec le soleil, calculer
+la température d'équilibre du disque dans les cas suivants :
+
+1. Les deux faces du disque sont des corps noires :
+$$T_d$$ = {1:NUMERICAL:=289.8:1.00} $$~\mathrm{K}$$.
+
+2. Les deux faces sont en
+peinture acrylique blanche  :
+$$T_d$$ = {1:NUMERICAL:=212.5:1.00} $$~\mathrm{K}$$.
+
+3. La face éclairée est en
+peinture acrylique blanche 
+et l'autre face est parfaitement réfléchissante :
+$$T_d$$ = {1:NUMERICAL:=344.6:1.00} $$~\mathrm{K}$$.
+
+4. La face éclairée est parfaitement réfléchissante, l’autre face est en
+peinture acrylique blanche  :
+$$T_d$$ = {1:NUMERICAL:=0.0:1.00} $$~\mathrm{K}$$.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 15 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0038:0.0002} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 15 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.0417:0.0021} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=3133:156.6692}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 6.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 4.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P12_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Facteurs de forme
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P12.png?raw=true"
+alt="pc" width="584" hight="170">
+
+## a) Entre un cylindre et une sphère
+
+Un cylindre fermé de hauteur $$h_c$$ = 1.00 m est placé au centre d'une
+sphère de rayon $$R$$ = 1.20 m.
+
+Donner le facteur de forme entre la sphère et le cylindre,
+$$F_{SC}$$ = {1:NUMERICAL:=0.7986:0.0399} $$\pm$$ 5 %.
+
+## b) Entre une surface infinitésimale et un demi-disque
+
+Une petite surface $$dS_1$$ est située dans un plan
+horizontal $$P$$ par rapport à un demi-disque $$S_2$$ vertical dont le grand
+diamètre est situé dans le plan $$P$$. Ce demi-disque est vu de la surface
+$$dS_1$$ sous un angle $$\alpha_0$$ = 45 °. Calculer le facteur de
+forme entre la surface $$dS_1$$ et le demi-disque $$S_2$$,
+$$F_{12}$$ = {1:NUMERICAL:=0.0908:0.0045} $$\pm$$ 5 %.
+
+## c) Entre une surface infinitésimale et un cylindre
+
+Considérons une petite surface $$dS$$ située dans un plan horizontal et un
+cylindre d'axe vertical. Le cylindre est supposé de longueur semi-infinie. Sa
+base est dans le plan qui contient la petite surface. Le diamètre apparent de
+ce cylindre (angle sous lequel on le voit depuis la petite surface $$dS$$) est
+$$\alpha$$ = 45 °.
+
+1. Calculer le facteur de forme entre la petite surface et le cylindre,
+$$F_{c}$$ = {1:NUMERICAL:=0.1250:0.0063} $$\pm$$ 5 %.
+
+2. Calculer l'éclairement de la petite surface provenat du cylindre,
+$$E_{c}$$ = {1:NUMERICAL:=9400:470.0075}
+$$\pm$$ 5 % $$ ~\mathrm{W}$$
+sachant que le cylindre rayonne comme un corps noir à la température
+$$\theta$$ = 800 °C.
+
+
+## d) Entre deux rectangles identiques, parallèles et directement opposés
+
+Considérons deux rectangles de côtés $$a$$ = 9.00 m et $$b$$ = 5.00 m
+à une distance $$h$$ = 3.00 m. Donner le facteur de forme entre les deux
+rectangles,
+$$F$$ = {1:NUMERICAL:=0.3417:0.0171} $$\pm$$ 5 %.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

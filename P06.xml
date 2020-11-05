@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=26.5:1.32} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=24.3:1.21} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=24.9:1.25} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=35.1:1.76} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=24.9:1.24} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.093:0.0046} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=57.4:2.87} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=32.1:1.61} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.5:1.42} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=29.5:1.48} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=58.5:2.93} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=41.5:2.07} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.249:0.0124} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=57.4:2.87} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=30.5:1.52} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.3:1.41} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=28.9:1.45} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=35.1:1.76} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=24.9:1.24} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.353:0.0177} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=19.1:0.96} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=36.1:1.81} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=32.5:1.62} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=33.5:1.68} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=58.5:2.93} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=41.5:2.07} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.405:0.0203} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=19.1:0.96} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=27.2:1.36} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=24.2:1.21} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=25.0:1.25} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=34.7:1.74} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=25.3:1.26} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.119:0.0060} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=58.1:2.90} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=33.4:1.67} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.3:1.42} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=29.7:1.49} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=57.9:2.89} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=42.1:2.11} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.289:0.0144} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=58.1:2.90} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=31.2:1.56} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.2:1.41} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=29.0:1.45} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=34.7:1.74} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=25.3:1.26} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.402:0.0201} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=19.4:0.97} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.2 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=37.4:1.87} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=32.3:1.62} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=33.7:1.69} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=57.9:2.89} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=42.1:2.11} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.458:0.0229} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=19.4:0.97} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=25.8:1.29} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=24.3:1.22} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=24.8:1.24} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=35.5:1.78} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=24.5:1.22} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.106:0.0053} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=56.8:2.84} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=31.0:1.55} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.6:1.43} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=29.3:1.47} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=59.2:2.96} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=40.8:2.04} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.324:0.0162} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=56.8:2.84} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=29.8:1.49} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.3:1.42} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=28.8:1.44} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=35.5:1.78} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=24.5:1.22} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.469:0.0234} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=18.9:0.95} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.16 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=35.0:1.75} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=32.6:1.63} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=33.3:1.67} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=59.2:2.96} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=40.8:2.04} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.541:0.0271} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=18.9:0.95} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=26.3:1.32} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=24.3:1.21} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=24.9:1.24} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=35.2:1.76} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=24.8:1.24} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.132:0.0066} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=57.3:2.86} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 18 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=31.9:1.59} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.5:1.42} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=29.5:1.47} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=58.7:2.93} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=41.3:2.07} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.363:0.0182} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=57.3:2.86} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 60 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=30.3:1.52} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=28.3:1.41} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=28.9:1.44} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=35.2:1.76} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=24.8:1.24} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.517:0.0259} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=19.1:0.95} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P06_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Étude en régime permanant d'un chauffage électrique par plancher
+
+<img src="https://github.com/cghiaus/PyCloze-TC/blob/main/img/P06.png?raw=true"
+alt="pc" width="584" hight="170">
+
+Un système de chauffage électrique par plancher est constitué de
+câbles électriques d’épaisseur
+$$w_c$$ = 0.01 m
+(que l’on pourra assimiler à une plaque) noyés dans une dalle de béton de
+conductivité thermique
+$$\lambda_b$$ =  1.8 W/m∙K.
+L’épaisseur totale du plancher est
+$$w_p$$ = 0.22 m.
+
+Le flux de chaleur par unité de surface créé par la plaque électrique est
+$$\varphi$$ = 100 W/m<sup>2</sup>.
+Ce flux se partage en un flux ascendant, $$\varphi_{c1}$$ (chauffage par
+le plancher du local supérieur), et un flux descendant, $$\varphi_{c2}$$
+(chauffage par le plafond du local inférieur). Les coefficients d’échange
+superficiel par convection des surfaces horizontales sont
+$$h_1$$ = 5.6 W/m<sup>2</sup>∙K pour le plancher et
+$$h_2$$ = 3.6 W/m<sup>2</sup>∙K pour le plafond.
+
+La température de l’air de chaque côté du plancher est
+$$T_1 = T_2$$ = 22 °C ;
+la température du câble chauffant est supposée uniforme et égale à
+$$\theta_c$$.
+
+**Question 1**
+
+En négligeant les échanges de chaleur par rayonnement et dans le cas où
+le plan chauffant est situé au centre du plancher, déterminer :
+
+1. La température de l’élément chauffant,
+    $$\theta_c$$ = {1:NUMERICAL:=35.9:1.79} °C
+    et les températures superficielles
+    $$\theta_{S1}$$ = {1:NUMERICAL:=32.5:1.62} °C et
+    $$\theta_{S2}$$ = {1:NUMERICAL:=33.5:1.67} °C.
+
+1. Les densités de flux de l’élément chauffant vers le local supérieur,
+     $$\varphi_{c1}$$ = {1:NUMERICAL:=58.7:2.93} W/m<sup>2</sup>,
+     et vers local inférieur,
+     $$\varphi_{c2}$$ = {1:NUMERICAL:=41.3:2.07} W/m<sup>2</sup>.
+
+**Question 2**
+
+On se propose placer le plan chauffant à une profondeur
+$$x$$ = {3:NUMERICAL:=0.594:0.0297} m
+dans le plancher pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C.
+
+
+**Question 3**
+
+Pour que la température de surface du plancher soit
+$$\theta_{S1}$$ = 24 °C,
+la puissance du plan chauffant situé au centre du plancher doit être
+$$\varphi$$ = {2:NUMERICAL:=19.1:0.95} W/m<sup>2</sup>.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

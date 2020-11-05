@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-07 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Lyon|2.6 | 4.0 | 7.9 | 10.8 |14.9 | 18.4 | 21.0 | 20.3 |17.1 | 11.9 | 7.0 | 3.5 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=7.99:0.400} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=5.45:0.273} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=12.0:12.014} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 1.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Lyon|2.6 | 4.0 | 7.9 | 10.8 |14.9 | 18.4 | 21.0 | 20.3 |17.1 | 11.9 | 7.0 | 3.5 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=14.59:0.730} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=9.95:0.498} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=12.0:12.014} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Lyon|2.6 | 4.0 | 7.9 | 10.8 |14.9 | 18.4 | 21.0 | 20.3 |17.1 | 11.9 | 7.0 | 3.5 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=25.27:1.264} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=17.24:0.862} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=12.0:12.014} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-07 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Lille|2.8 | 3.4 | 6.2 | 9.3 |12.6 | 15.4 | 17.1 | 13.3 |15.2 | 11 | 6.6 | 3.6 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=7.99:0.400} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=5.45:0.273} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=10.0:10.017} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 1.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Lille|2.8 | 3.4 | 6.2 | 9.3 |12.6 | 15.4 | 17.1 | 13.3 |15.2 | 11 | 6.6 | 3.6 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=14.59:0.730} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=9.95:0.498} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=10.0:10.017} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Lille|2.8 | 3.4 | 6.2 | 9.3 |12.6 | 15.4 | 17.1 | 13.3 |15.2 | 11 | 6.6 | 3.6 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=25.27:1.264} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=17.24:0.862} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=10.0:10.017} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-07 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Nice|8.0 | 8.6 | 10.4 | 13 |16.5 | 19.8 | 22.3 | 22.2 |20.3 | 16.1 | 12.0 | 9.0 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=7.99:0.400} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=5.45:0.273} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=15.2:15.159} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 1.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Nice|8.0 | 8.6 | 10.4 | 13 |16.5 | 19.8 | 22.3 | 22.2 |20.3 | 16.1 | 12.0 | 9.0 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=14.59:0.730} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=9.95:0.498} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=15.2:15.159} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Nice|8.0 | 8.6 | 10.4 | 13 |16.5 | 19.8 | 22.3 | 22.2 |20.3 | 16.1 | 12.0 | 9.0 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=25.27:1.264} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=17.24:0.862} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=15.2:15.159} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-07 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Bordeaux|5.5 | 6.4 | 9.7 | 11.8 |14.9 | 18.3 | 19.8 | 20.0 |17.8 | 13.3 | 8.8 | 6.1 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=7.99:0.400} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=5.45:0.273} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=13.0:13.013} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 1.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Bordeaux|5.5 | 6.4 | 9.7 | 11.8 |14.9 | 18.3 | 19.8 | 20.0 |17.8 | 13.3 | 8.8 | 6.1 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=14.59:0.730} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=9.95:0.498} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=13.0:13.013} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P09_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Oscillation thermique dans le sol (régime dynamique)
+
+Le sol, qui peut être considéré comme un milieu unidimensionnel semi-infini,
+est soumis sur sa face supérieure à une variation de température périodique
+$$T(0,t) = T_0 + \Delta T \cos (\omega t)$$.
+La diffusivité thermique du sol est
+$$\alpha$$ = 3.00e-06 $$~\mathrm{m^2/s}$$.
+
+<br/>
+
+Températures moyennes mensuelles (°C)
+
+|Ville|janv.|fevr.|mars|avr.|mai|juin|juill.|aout|sept.|oct.|nov.|déc.|
+|-----|-----|-----|----|----|---|----|------|----|-----|----|----|----|
+|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
+|Bordeaux|5.5 | 6.4 | 9.7 | 11.8 |14.9 | 18.3 | 19.8 | 20.0 |17.8 | 13.3 | 8.8 | 6.1 |
+
+<br/>
+
+**En considérant une sollicitation annuelle de période 365 jours,
+donner les valeurs de :**
+
+1. La profondeur à laquelle l’amplitude de température est de 1/100
+de celle en surface,
+
+$$x_{1/100}$$ = {1:NUMERICAL:=25.27:1.264} m.
+
+2. La profondeur à laquelle la température est minimale lorsqu’elle
+est maximale en surface,
+
+$$x_{opos}$$ = {1:NUMERICAL:=17.24:0.862} m.
+
+3. La température du sol à la profondeur $$x_{opos}$$ au mois de janvier,
+
+$$\theta_{sol}$$ = {1:NUMERICAL:=13.0:13.013} °C.
+
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>

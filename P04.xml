@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_000</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=3.02:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.57:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1132.08:-56.60} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_001</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.58:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.32:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1161.29:-58.06} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_002</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=3.63:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.66:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1360.20:-68.01} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_003</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=3.12:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.31:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1402.60:-70.13} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_004</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.23:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.21:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1415.09:-70.75} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_005</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.77:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=7.90:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1451.61:-72.58} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_006</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-0.47:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=5.83:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1700.25:-85.01} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_007</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.10:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=5.39:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1753.25:-87.66} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_008</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=3.02:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.57:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1509.43:-75.47} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_009</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.58:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.32:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1548.39:-77.42} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_010</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=3.63:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.66:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1813.60:-90.68} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_011</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=3.12:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.31:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1870.13:-93.51} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_012</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.23:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.21:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1886.79:-94.34} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_013</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.77:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=7.90:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1935.48:-96.77} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_014</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-0.47:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=5.83:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-2267.00:-113.35} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_015</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.10 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.10:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=5.39:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-2337.66:-116.88} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_016</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.19:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.15:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-821.92:-41.10} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_017</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=1.86:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.02:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-837.21:-41.86} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_018</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.90:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.95:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1086.52:-54.33} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_019</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.47:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.72:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1113.40:-55.67} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_020</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-2.26:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=11.44:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1027.40:-51.37} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_021</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-2.67:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=11.28:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1046.51:-52.33} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_022</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.38:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.68:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1358.15:-67.91} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_023</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 15.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.91:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.40:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1391.75:-69.59} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_024</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.19:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.15:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1095.89:-54.79} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_025</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=1.86:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=13.02:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1116.28:-55.81} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_026</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.90:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.95:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1448.69:-72.43} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_027</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = 0.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=2.47:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=10.72:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1484.54:-74.23} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_028</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-2.26:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=11.44:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1369.86:-68.49} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_029</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.00 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-2.67:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=11.28:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1395.35:-69.77} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_030</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 25.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.38:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.68:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1810.87:-90.54} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+
+  <question type="cloze">
+
+    <name>
+
+      <text>P04_031</text>
+
+    </name>
+
+    <questiontext format="markdown">
+
+      <text>
+
+        <![CDATA[
+
+          
+# Mur soumis aux échanges superficiels convectifs
+
+Considérons un mur d'épaisseur
+$$e$$ = 0.20 m
+et de surface
+$$S$$ = 20.00 m<sup>2</sup>
+dont les températures de l'air à l'extérieure $$o$$ et à l'intérieure $$i$$
+sont maintenues aux valeurs
+$$\theta_o$$ = -5.0 C
+et
+$$\theta_i$$ = 20.0 C.
+On supposera que les transferts de chaleur sont monodimensionnels et en
+régime permanent, sans création de chaleur interne. La conductivité
+du matériau est
+$$\lambda$$ = 1.80 W/mK
+et les coefficients de convection à l'extérieure et à l'intérieure sont
+$$h_o$$ = 30.00 W/m<sup>2</sup>K
+et
+$$h_i$$ = 8.00 W/m<sup>2</sup>K,
+respectivement.
+
+**Donner les valeurs de :**
+
+$$\theta_1$$ = {1:NUMERICAL:=-1.91:0.20} C,
+température de la surface extérieure du mur.
+
+$$\theta_2$$ = {1:NUMERICAL:=8.40:0.20} C,
+température de la surface intérieure du mur.
+
+$$q_{o,i}$$ = {1:NUMERICAL:=-1855.67:-92.78} W,
+flux thermique traversant le mur de l'extérieure à l'intérieure.
+
+
+        ]]>
+
+      </text>
+
+     </questiontext>
+
+    <generalfeedback format="html">
+
+      <text></text>
+
+    </generalfeedback>
+
+    <penalty>0.333</penalty>
+
+    <hidden>0</hidden>
+
+    <idnumber></idnumber>
+
+  </question>
+
+</quiz>
