@@ -25,7 +25,7 @@ A la demande, les enseignants peuvent obtenir les fichiers Python qui génèrent
 
 - Télécharger les fichiers `.xml`.
 
-- [Importer][ImporterQestionXML] les questions en Moodle depuis le fichier `*.xml`. 
+- [Importer][ImporterQestionXML] les questions en Moodle depuis un fichier `*.xml` (voir [tutoriel][Tutorial_xml2moodle] pour la crétion des tests en Moodle).
 
 
 ## Sommaire
@@ -44,11 +44,33 @@ A la demande, les enseignants peuvent obtenir les fichiers Python qui génèrent
 
 ### Problèmes
 
-[P01](P01.md)
+[P01](P01.md) Mur soumis aux conditions limites de type Dirichlet
 
-[P02](P02.md)
+[P02](P02.md) Conduction en régime permanant avec création interne de chaleur
 
-[P03](P03.md)
+[P03](P03.md) Mur en régime permanent avec conductivité variable
+
+[P04](P04.md) Mur soumis aux échanges superficiels convectifs
+
+[P05](P05.md) Mur soumis aux échanges superficiels convectifs et radiatifs
+
+[P06](P06.md) Étude en régime permanant d'un chauffage électrique par plancher
+
+[P07](P07.md) Isolation thermique des tubes cylindriques
+
+[P08](P08.md) Trempe d'une bille métallique (régime dynamique)
+
+[P09](P09.md) Oscillation thermique dans le sol (régime dynamique)
+
+[P10](P10.md) Rayonnement d’un disque
+
+[P11](P11.md) Effet de serre
+
+[P12](P12.md) Facteurs de forme
+
+[P13](P13.md) Échanges radiatifs dans un local de forme cubique
+
+[P14](P14.md) Échanges radiatifs entre surfaces noires et grises
 
 ## Licence
 Ces documents sont sous licence <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
@@ -70,3 +92,5 @@ Ces documents sont sous licence <a rel="license" href="http://creativecommons.or
 [ImporterQestionXML]:https://docs.moodle.org/3x/fr/Importer_des_questions#Importer_des_questions_depuis_un_fichier
 
 [xml2moodle]:https://github.com/cghiaus/PyCloze/blob/main/Tutorial_xml2moodle.md
+
+[Tutorial_xml2moodle]:https://github.com/cghiaus/PyCloze/blob/main/Tutorial_xml2moodle.md
