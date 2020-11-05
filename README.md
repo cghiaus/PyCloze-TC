@@ -36,7 +36,7 @@ A la demande, les enseignants peuvent obtenir les fichiers Python qui ont géné
 
 [Q02](Q02.md) Estimation des coefficients d'échange convectif
 
-[Q03](Q03.md) Emissivité totale hémisphérique
+[Q03](Q03.md) Émissivité totale hémisphérique
 
 [Q04](Q04.md) Facteurs de forme
 
