@@ -19,7 +19,7 @@ Les fichiers en format [XML Moodle][XML] sont obtenus en utilisant la procédure
 
 [![DOI](https://zenodo.org/badge/302832801.svg)](https://zenodo.org/badge/latestdoi/302832801)
 
-A la demande, les enseignants peuvent obtenir les fichiers Python qui génèrent les questions. Cela donne la possibilité de changer le nombre des [points][QuestionCloze] accordés à chaque réponse et/ou de modifier le texte de la question.
+A la demande, les enseignants peuvent obtenir les fichiers Python qui ont généré les questions. Cela donne la possibilité de changer le nombre des [points][QuestionCloze] accordés à chaque réponse et/ou de modifier le texte de la question.
 
 ## Guide d'utilisation rapide
 
