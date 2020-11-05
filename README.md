@@ -1,4 +1,7 @@
 # PyCloze-Transferts de chaleur
+
+[![DOI](https://zenodo.org/badge/309706103.svg)](https://zenodo.org/badge/latestdoi/309706103)
+
 - auteur: [Christian Ghiaus](mailto:cghiaus@gmail.com), [INSA Lyon](https://www.insa-lyon.fr)
 - date: nov. 2020
 
