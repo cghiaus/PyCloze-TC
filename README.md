@@ -25,7 +25,7 @@ A la demande, les enseignants peuvent obtenir les fichiers Python qui ont géné
 
 - Télécharger les fichiers `.xml`.
 
-- [Importer][ImporterQestionXML] les questions en Moodle depuis un fichier `*.xml` (voir [tutoriel][Tutorial_xml2moodle] pour la crétion des tests en Moodle).
+- [Importer][ImporterQestionXML] les questions en Moodle depuis un fichier `*.xml` (voir [tutoriel][Tutorial_xml2moodle] pour la création de tests en Moodle).
 
 
 ## Sommaire
