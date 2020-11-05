@@ -10,7 +10,7 @@ Les tests sont utilisables pour :
 
 - Problèmes dans les travaux dirigés (TD) : les fichiers notés `P*.xml`.
 
-- Examens en utilisant des [tests][TestsMoodle] composés de plusieurs questions (typiqument une question `Q*.xml` et deux questions `P*.xml`).
+- Examens en utilisant des [tests][TestsMoodle].
 
 
 Les fichiers en format [XML Moodle][XML] sont obtenus en utilisant la procédure :
