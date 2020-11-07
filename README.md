@@ -5,7 +5,7 @@
 - auteur: [Christian Ghiaus](mailto:cghiaus@gmail.com), [INSA Lyon](https://www.insa-lyon.fr)
 - date: nov. 2020
 
-[Banque de questions][BanqueQuestions] à réponse intégrées ([cloze][QuestionCloze]) en format [XML][xml2moodle] générés en [Python](https://www.python.org) pour obtenir des tests [Moodle](https://moodle.org) à [questions aléatoires][QuestionsAléatoires].
+[Banque de questions][BanqueQuestions] à réponses intégrées ([cloze][QuestionCloze]) en format [XML][xml2moodle] générés en [Python](https://www.python.org) pour obtenir des tests [Moodle](https://moodle.org) à [questions aléatoires][QuestionsAléatoires].
 
 Les tests sont utilisables pour :
 
