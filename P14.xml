@@ -31,7 +31,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -46,7 +46,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -124,7 +124,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -139,7 +139,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -217,7 +217,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -232,7 +232,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -310,7 +310,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -325,7 +325,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -403,7 +403,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -418,7 +418,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -496,7 +496,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -511,7 +511,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -589,7 +589,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -604,7 +604,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -682,7 +682,7 @@ $$d_g = 20 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -697,7 +697,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.250:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.750:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -775,7 +775,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -790,7 +790,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -868,7 +868,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -883,7 +883,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -961,7 +961,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -976,7 +976,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -1054,7 +1054,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -1069,7 +1069,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -1147,7 +1147,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -1162,7 +1162,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -1240,7 +1240,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -1255,7 +1255,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -1333,7 +1333,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 600 ~\mathrm{K}$$.
+$$T_c = 600 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -1348,7 +1348,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
@@ -1426,7 +1426,7 @@ $$d_g = 30 ~\mathrm{mm}$$.
 Le câble doit dissiper une puissance
 $$\dot{Q_c} = 30 ~\mathrm{W}$$
 sans que sa température ne dépasse
-$$T_c = 550 ~\mathrm{K}$$.
+$$T_c = 550 ~\mathrm{°C}$$.
 
 1. En négligeant les effets de bords aux extrémités, donner la valeur des
 différents facteurs de forme entre le câble et la gaine :
@@ -1441,7 +1441,7 @@ $$F_{gc}$$ = {1:NUMERICAL:=0.167:0.050}
 $$\pm 0.05$$,
 
 $$F_{gg}$$ = {1:NUMERICAL:=0.833:0.050}
-$$\pm 0.05$$,
+$$\pm 0.05$$.
 
 2. Sachant que les deux surfaces sont noires, donner la température maximale
 que doit avoir la gaine:
